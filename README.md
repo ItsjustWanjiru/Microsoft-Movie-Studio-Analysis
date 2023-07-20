@@ -1,4 +1,4 @@
-**Movie Studio Business Analysis - README**
+**Microsoft Movie Studio Business Analysis - README**
 
 **Overview:**
 
