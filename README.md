@@ -44,3 +44,5 @@ To further improve Microsoft's movie studio business, the following steps are re
 5. Monitor genre popularity trends over time to adapt to changing audience preferences.
 
 By incorporating these next steps into future analyses and decision-making processes, Microsoft's movie studio can solidify its position in the industry and achieve greater success.
+
+See the full analysis in the [Jupyter Notebook](https://github.com/ItsjustWanjiru/Microsoft-Movie-Studio-Analysis/blob/master/student.ipynb) or review this [presentation](https://github.com/ItsjustWanjiru/Microsoft-Movie-Studio-Analysis/blob/master/presentation.pdf).
